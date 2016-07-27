@@ -13,4 +13,4 @@ print 100 in sales
 #range
 print range(10)
 print range(3,10)
-print range(3,10,2) 
+prit 
